@@ -1,6 +1,6 @@
 # Face Recognition and Classification using Keras and OpenCV
 
-![python](https://img.shields.io/badge/Python-27338e?style=for-the-badge&logo=python&logoColor=white) ![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/Opencv-5C3EE8.svg?logo=Opencv&logoColor=white) ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white)
 
 This Python program uses Keras for deep learning and OpenCV for computer vision to perform real-time face detection and classification. It loads a pre-trained deep learning model to recognize faces in webcam video streams and displays the detected faces along with their predicted classes and confidence scores.
 
